@@ -1,3 +1,3 @@
 # odin-recipes
 
-A practice website, which is using HTML at the first stage.
+This is a practice website, which is using HTML at the first stage.
