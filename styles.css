@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+    
+    margin: 20px;
+    
+}
+
+h1, ul {
+    flex-direction: column;
+    justify-content: center;
+    display: inline;
+    margin: 20px;
+}
+
+ul li {
+    padding: 8px;
+}
+
+body img {
+    width: 200px auto;
+}
